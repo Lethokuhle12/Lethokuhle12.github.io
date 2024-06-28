@@ -1,0 +1,58 @@
+
+
+#myheading{
+	text-align:center;
+	color:cyan;
+	font-family:arial;
+	font-size:50px;
+	
+	margin:0;
+	padding:20px;
+	
+	
+	
+}
+body{
+	background-image: url(3ugmfi95hriwchmk3snc.webp);
+	background-position:centre;
+	background-attachment:fixed;
+	background-size:cover;
+	margin:0;
+}
+nav ul li{
+	display:inline-block;
+	padding:5px;
+	color:white;
+	border: 3px outset cyan;
+	margin-right:10px;
+	border-radius:10px;
+	background-color:grey; 
+
+	
+	
+}
+nav ul li:hover{
+	background-color:black;
+	font-size:15px;
+}
+
+aside{
+	color:black;
+	background-color:grey;
+	border:5px outset cyan;
+	border-radius:20px;
+	width:30%;
+    padding:1px;
+	position:100%;
+    float:left;
+}
+section{
+	color:black;
+	background-color:grey;
+	border:5px outset cyan;
+	border-radius:20px;
+	width:30%;
+    padding:1px;
+	position:10
+}
+
