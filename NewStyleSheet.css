@@ -1,0 +1,84 @@
+body{
+    margin:0;
+}
+header{
+
+    height: 100px;
+    color:aliceblue;
+    text-align: center;
+    padding: 20px;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url(pexels-vojtech-okenka-392018.jpg);
+    background-size: 150px;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin:0;
+	padding:20px;
+}
+nav{
+    border-top:1px solid white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:5px;
+    background-color: darkslategrey;
+    background-size:cover ;
+    margin: 0;
+    length:20px;
+
+}
+nav ul li{
+    
+    color: rgb(223, 252, 252);
+    font-size: 2;
+	display: inline-block;
+	padding:5px;
+	
+	
+	
+}main{
+    clear:both;
+    margin:0;
+     padding:0px;
+     background-color: ghostwhite;
+     
+}
+aside{
+     float:left;
+     width:33%;
+     padding:0px;
+     margin:0;
+}
+section{
+    float:left;
+     width:33%;
+     padding:0px;
+}
+article{
+    float:left;
+     width:21%;
+     padding-left:0px;
+}
+footer{
+    clear: both;
+    color: rgb(19, 90, 90);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;  
+    padding:15px;
+    text-align: center;
+	background-color:color: rgb(223, 252, 252);
+   
+}
+button{
+	
+ font-size:18px;
+ 
+	 background-color: darkslategrey;
+	 border:none;
+    background-size:cover ;
+}
+@hover button{
+	 
+	 color:blue;
+}
